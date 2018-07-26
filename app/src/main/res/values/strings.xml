@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tamil News Hunt</string>
+    <string name="action_aboutus">About Us</string>
+    <string name="action_otherapps">Our Other Apps</string>
+
+    <string name="banner_top_ad_unit_id">ca-app-pub-4283164631469341/4715606806</string>
+    <string name="banner_bottom_ad_unit_id">ca-app-pub-4283164631469341/6235081343</string>
+    <string name="native_reader_ad_unit_id">ca-app-pub-4283164631469341/1660664050</string>
+    <string name="interestial_reader_ad_unit_id">ca-app-pub-4283164631469341/5977170203</string>
+
+</resources>

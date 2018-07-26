@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "712662966082",
+    "firebase_url": "https://tamil-news-hunt-2da15.firebaseio.com",
+    "project_id": "tamil-news-hunt-2da15",
+    "storage_bucket": "tamil-news-hunt-2da15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712662966082:android:8d31848e66d8a68b",
+        "android_client_info": {
+          "package_name": "in.spark.idea.fullynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712662966082-1h7r0n1b17ck382a3v8t96ia4h8jbfrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRvbJupLq05C7ita_DbGCLGYOtbljQKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
